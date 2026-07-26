@@ -6,7 +6,7 @@
 Backend Developer passionate about building scalable systems, distributed applications, and production-ready software.
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ari3s7&theme=github-dark-blue" alt="GitHub Streak" /></a>>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ari3s7&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </p><p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ari3s7&layout=compact&theme=github_dark&hide_border=true" />
 </p>
